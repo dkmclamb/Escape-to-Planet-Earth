@@ -31,7 +31,6 @@ public class ClickControl : MonoBehaviour, IPointerUpHandler
 
                 if (numOfTries == 0)
                 {
-                    Debug.Log("Sorry, you didn't get the right code. GAME OVER");
                     numOfTries = 5;
                     SceneManager.LoadScene("Game Over");
                 }
@@ -41,7 +40,10 @@ public class ClickControl : MonoBehaviour, IPointerUpHandler
 
     public void OnPointerUp(PointerEventData eventData)
     {
-        playerCode += gameObject.name;
-        totalDigits += 1;
+        if (totalDigits < 3)
+        {
+            playerCode += gameObject.name;
+            totalDigits += 1;
+        }
     }
 }
