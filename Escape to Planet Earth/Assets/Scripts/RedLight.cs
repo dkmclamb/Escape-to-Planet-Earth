@@ -13,7 +13,6 @@ public class RedLight : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
         if (ClickControl.totalDigits == 3 && ClickControl.playerCode != ClickControl.correctCode)
         {
             GetComponent<SpriteRenderer>().enabled = true;
