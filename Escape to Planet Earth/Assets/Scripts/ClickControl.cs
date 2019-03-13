@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class ClickControl : MonoBehaviour, IPointerUpHandler
 {
@@ -19,6 +20,7 @@ public class ClickControl : MonoBehaviour, IPointerUpHandler
     // Update is called once per frame
     void Update()
     {
+
         if (totalDigits == 3)
         {
             if (playerCode != correctCode)
@@ -30,6 +32,8 @@ public class ClickControl : MonoBehaviour, IPointerUpHandler
                 if (numOfTries == 0)
                 {
                     Debug.Log("Sorry, you didn't get the right code. GAME OVER");
+                    numOfTries = 5;
+                    SceneManager.LoadScene("Game Over");
                 }
             }
         }

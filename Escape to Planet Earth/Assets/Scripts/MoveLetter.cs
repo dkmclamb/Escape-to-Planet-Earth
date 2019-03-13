@@ -8,7 +8,7 @@ public class MoveLetter : MonoBehaviour
 {
     private Vector3 screenPoint;
     private Vector3 offset;
-    //public string letterStatus = "setDown";
+    public string letterStatus = "";
     /*
     public string GetLetterStatus()
     { return letterStatus; }
@@ -20,8 +20,8 @@ public class MoveLetter : MonoBehaviour
     */
 
     // Update is called once per frame
-    //void Update()
-    //{
+    void Update()
+    {
         /*
         if (letterStatus == "pickedUp")//GetLetterStatus() if set back to private
         {
@@ -42,19 +42,29 @@ public class MoveLetter : MonoBehaviour
             letterStatus = "setDown";
         }
         */
-    //}
+        if (letterStatus == "locked")
+        {
+            GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeAll;
+        }
+
+    }
 
     void OnMouseDown()
     {
-
-        offset = gameObject.transform.position - Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, screenPoint.z));
+        if (letterStatus != "locked")
+        {
+            offset = gameObject.transform.position - Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, screenPoint.z));
+        }
     }
 
     void OnMouseDrag()
     {
-        Vector3 curScreenPoint = new Vector3(Input.mousePosition.x, Input.mousePosition.y, screenPoint.z);
-        Vector3 curPosition = Camera.main.ScreenToWorldPoint(curScreenPoint) + offset;
-        transform.position = curPosition;
+        if (letterStatus != "locked")
+        {
+            Vector3 curScreenPoint = new Vector3(Input.mousePosition.x, Input.mousePosition.y, screenPoint.z);
+            Vector3 curPosition = Camera.main.ScreenToWorldPoint(curScreenPoint) + offset;
+            transform.position = curPosition;
+        }
     }
     /*
     void GetMouseDown()
@@ -72,4 +82,12 @@ public class MoveLetter : MonoBehaviour
         }
     }
     */
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.name == gameObject.name)
+        {
+            transform.position = other.gameObject.transform.position;
+            letterStatus = "locked";
+        }
+    }
 }
