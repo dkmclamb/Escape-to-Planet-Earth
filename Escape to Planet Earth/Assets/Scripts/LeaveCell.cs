@@ -1,10 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
-public class GreenLight : MonoBehaviour
+public class LeaveCell : MonoBehaviour
 {
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -16,15 +17,8 @@ public class GreenLight : MonoBehaviour
     {
         if (ClickControl.totalDigits == 3 && ClickControl.playerCode == ClickControl.correctCode)
         {
-            GetComponent<SpriteRenderer>().enabled = true;
-            StartCoroutine(waitToLeaveKeypad());
+            Button ExitButton = GetComponent<Button>();
+            ExitButton.enabled = true;
         }
     }
-
-    IEnumerator waitToLeaveKeypad()
-    {
-        yield return new WaitForSeconds(1);
-        SceneManager.LoadScene("Prison Cell");
-    }
-    
 }
