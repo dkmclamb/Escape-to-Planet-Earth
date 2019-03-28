@@ -30,6 +30,64 @@ TextureImporter:
     21300050: gameroomsprite_25
     21300052: gameroomsprite_26
     21300054: gameroomsprite_27
+    21300056: gameroomsprite_28
+    21300058: gameroomsprite_29
+    21300060: gameroomsprite_30
+    21300062: gameroomsprite_31
+    21300064: gameroomsprite_32
+    21300066: gameroomsprite_33
+    21300068: gameroomsprite_34
+    21300070: gameroomsprite_35
+    21300072: gameroomsprite_36
+    21300074: gameroomsprite_37
+    21300076: gameroomsprite_38
+    21300078: gameroomsprite_39
+    21300080: gameroomsprite_40
+    21300082: gameroomsprite_41
+    21300084: gameroomsprite_42
+    21300086: gameroomsprite_43
+    21300088: gameroomsprite_44
+    21300090: gameroomsprite_45
+    21300092: gameroomsprite_46
+    21300094: gameroomsprite_47
+    21300096: gameroomsprite_48
+    21300098: gameroomsprite_49
+    21300100: gameroomsprite_50
+    21300102: gameroomsprite_51
+    21300104: gameroomsprite_52
+    21300106: gameroomsprite_53
+    21300108: gameroomsprite_54
+    21300110: gameroomsprite_55
+    21300112: gameroomsprite_56
+    21300114: gameroomsprite_57
+    21300116: gameroomsprite_58
+    21300118: gameroomsprite_59
+    21300120: gameroomsprite_60
+    21300122: gameroomsprite_61
+    21300124: gameroomsprite_62
+    21300126: gameroomsprite_63
+    21300128: gameroomsprite_64
+    21300130: gameroomsprite_65
+    21300132: gameroomsprite_66
+    21300134: gameroomsprite_67
+    21300136: gameroomsprite_68
+    21300138: gameroomsprite_69
+    21300140: gameroomsprite_70
+    21300142: gameroomsprite_71
+    21300144: gameroomsprite_72
+    21300146: gameroomsprite_73
+    21300148: gameroomsprite_74
+    21300150: gameroomsprite_75
+    21300152: gameroomsprite_76
+    21300154: gameroomsprite_77
+    21300156: gameroomsprite_78
+    21300158: gameroomsprite_79
+    21300160: gameroomsprite_80
+    21300162: gameroomsprite_81
+    21300164: gameroomsprite_82
+    21300166: gameroomsprite_83
+    21300168: gameroomsprite_84
+    21300170: gameroomsprite_85
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -75,7 +133,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -116,9 +174,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 7112
-        width: 1920
-        height: 1080
+        y: 7586
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -126,7 +184,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c4acc599fc9ab643996e2f027872852
+      spriteID: 411b2af9ca7b3a242bf338d740038277
       vertices: []
       indices: 
       edges: []
@@ -135,10 +193,10 @@ TextureImporter:
       name: gameroomsprite_1
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 7112
-        width: 1920
-        height: 1080
+        x: 1080
+        y: 7586
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,7 +204,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef2ae151b6f46e349b74e5565e526082
+      spriteID: bc32325abea55b64684128d7bd57b94b
       vertices: []
       indices: 
       edges: []
@@ -155,10 +213,10 @@ TextureImporter:
       name: gameroomsprite_2
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 7112
-        width: 1920
-        height: 1080
+        x: 2160
+        y: 7586
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,7 +224,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 698e8f7d10e11c549ac675925afe4a5f
+      spriteID: 9a0d62c8033f4ce48828f0b2d561803f
       vertices: []
       indices: 
       edges: []
@@ -175,10 +233,10 @@ TextureImporter:
       name: gameroomsprite_3
       rect:
         serializedVersion: 2
-        x: 5760
-        y: 7112
-        width: 1920
-        height: 1080
+        x: 3240
+        y: 7586
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,7 +244,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d726c73f46fe804ab450e278e399b1f
+      spriteID: 76841a4f44707b2409b2e9c01cdd014d
       vertices: []
       indices: 
       edges: []
@@ -195,10 +253,10 @@ TextureImporter:
       name: gameroomsprite_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 6032
-        width: 1920
-        height: 1080
+        x: 4320
+        y: 7586
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,7 +264,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad59dab12b6437143a6decbaba61bb6c
+      spriteID: 5266836925aeaa142b591bd49d7820e9
       vertices: []
       indices: 
       edges: []
@@ -215,10 +273,10 @@ TextureImporter:
       name: gameroomsprite_5
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 6032
-        width: 1920
-        height: 1080
+        x: 5400
+        y: 7586
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,7 +284,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9fc77b6d31509b41a9564b2178f25f1
+      spriteID: af3673417d1d694498a091f105daaaba
       vertices: []
       indices: 
       edges: []
@@ -235,10 +293,10 @@ TextureImporter:
       name: gameroomsprite_6
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 6032
-        width: 1920
-        height: 1080
+        x: 6480
+        y: 7586
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,7 +304,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64a344b56b7d9bf4abda8d5a19ee3868
+      spriteID: cd6bfab533819384fa836d8da358099d
       vertices: []
       indices: 
       edges: []
@@ -255,10 +313,10 @@ TextureImporter:
       name: gameroomsprite_7
       rect:
         serializedVersion: 2
-        x: 5760
-        y: 6032
-        width: 1920
-        height: 1080
+        x: 0
+        y: 6980
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,7 +324,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1542be104657aac47b05c5d7a76d2c1e
+      spriteID: 6a8c2516786bfb647ae856b8c5322716
       vertices: []
       indices: 
       edges: []
@@ -275,10 +333,10 @@ TextureImporter:
       name: gameroomsprite_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 4952
-        width: 1920
-        height: 1080
+        x: 1080
+        y: 6980
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,7 +344,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 941a7ab4ac6252547bce7ee0c61003fc
+      spriteID: 9126882011bbe8c419be8bffebc4315c
       vertices: []
       indices: 
       edges: []
@@ -295,10 +353,10 @@ TextureImporter:
       name: gameroomsprite_9
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 4952
-        width: 1920
-        height: 1080
+        x: 2160
+        y: 6980
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,7 +364,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cef299ed463ef8848b713f322491130e
+      spriteID: 8f1eddf649976304f8dc1d36fa771ea7
       vertices: []
       indices: 
       edges: []
@@ -315,10 +373,10 @@ TextureImporter:
       name: gameroomsprite_10
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 4952
-        width: 1920
-        height: 1080
+        x: 3240
+        y: 6980
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,7 +384,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a20b4c596a158db47a548bedee349c65
+      spriteID: 12d27cd9785b60e4d834397899c8a571
       vertices: []
       indices: 
       edges: []
@@ -335,10 +393,10 @@ TextureImporter:
       name: gameroomsprite_11
       rect:
         serializedVersion: 2
-        x: 5760
-        y: 4952
-        width: 1920
-        height: 1080
+        x: 4320
+        y: 6980
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,7 +404,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 963d4f3b9a98d064aa4079ca4136234f
+      spriteID: 786279d5d9e357c449b1ad248f5cb046
       vertices: []
       indices: 
       edges: []
@@ -355,10 +413,10 @@ TextureImporter:
       name: gameroomsprite_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3872
-        width: 1920
-        height: 1080
+        x: 5400
+        y: 6980
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,7 +424,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f00822a3696b58d46bb59f0f23c8afc2
+      spriteID: 11d423544c8f37345a699e199c27320e
       vertices: []
       indices: 
       edges: []
@@ -375,10 +433,10 @@ TextureImporter:
       name: gameroomsprite_13
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 3872
-        width: 1920
-        height: 1080
+        x: 6480
+        y: 6980
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,7 +444,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 639b38fd1b5cd8240ba884fe516d772d
+      spriteID: 51e2e322f07826942be3cd262390b79b
       vertices: []
       indices: 
       edges: []
@@ -395,10 +453,10 @@ TextureImporter:
       name: gameroomsprite_14
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 3872
-        width: 1920
-        height: 1080
+        x: 0
+        y: 6374
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,7 +464,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44f604bb0fd44ac4787b77eace9d9354
+      spriteID: 02bf2d8f57511ff48a0612e4d860dd35
       vertices: []
       indices: 
       edges: []
@@ -415,10 +473,10 @@ TextureImporter:
       name: gameroomsprite_15
       rect:
         serializedVersion: 2
-        x: 5760
-        y: 3872
-        width: 1920
-        height: 1080
+        x: 1080
+        y: 6374
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,7 +484,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 994a2c82e7c38f745af721d1daa22990
+      spriteID: 07ca21fe4fde8e94bbbc3520a5a329f1
       vertices: []
       indices: 
       edges: []
@@ -435,10 +493,10 @@ TextureImporter:
       name: gameroomsprite_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2792
-        width: 1920
-        height: 1080
+        x: 2160
+        y: 6374
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,7 +504,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d3c94e3a5df99d4c83bc30717a01b47
+      spriteID: 7120efc9e92213b4fbf4786e5a9351ff
       vertices: []
       indices: 
       edges: []
@@ -455,10 +513,10 @@ TextureImporter:
       name: gameroomsprite_17
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 2792
-        width: 1920
-        height: 1080
+        x: 3240
+        y: 6374
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,7 +524,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1361d1173e90f49408ce1dce6d41dd07
+      spriteID: f503d160cd5574646a9a34d3cfd4de91
       vertices: []
       indices: 
       edges: []
@@ -475,10 +533,10 @@ TextureImporter:
       name: gameroomsprite_18
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 2792
-        width: 1920
-        height: 1080
+        x: 4320
+        y: 6374
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -486,7 +544,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0d0018ab49f5a94db122b6d0a015799
+      spriteID: af2f78c0ecc815949b5e8d4a21e77d26
       vertices: []
       indices: 
       edges: []
@@ -495,10 +553,10 @@ TextureImporter:
       name: gameroomsprite_19
       rect:
         serializedVersion: 2
-        x: 5760
-        y: 2792
-        width: 1920
-        height: 1080
+        x: 5400
+        y: 6374
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,7 +564,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bba57f9126016ec40a30d1508f7a824c
+      spriteID: 9c30bfeb0c8fb1a4bb6c0dfd43d76042
       vertices: []
       indices: 
       edges: []
@@ -515,10 +573,10 @@ TextureImporter:
       name: gameroomsprite_20
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1712
-        width: 1920
-        height: 1080
+        x: 6480
+        y: 6374
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -526,7 +584,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cda3c55f6f05d504cba8e81441179cf7
+      spriteID: fc46f880e1180554c99ccaeec45f82c2
       vertices: []
       indices: 
       edges: []
@@ -535,10 +593,10 @@ TextureImporter:
       name: gameroomsprite_21
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 1712
-        width: 1920
-        height: 1080
+        x: 0
+        y: 5768
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,7 +604,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ea28e3da05224b4a8ce7e7437f72806
+      spriteID: a3a4b533694fd504facf316e71abb41b
       vertices: []
       indices: 
       edges: []
@@ -555,10 +613,10 @@ TextureImporter:
       name: gameroomsprite_22
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 1712
-        width: 1920
-        height: 1080
+        x: 1080
+        y: 5768
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,7 +624,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aaaa2e3dab8a8694b9448833ef5408e5
+      spriteID: 9c94da3b08cf3b144b1b4c4e874d8199
       vertices: []
       indices: 
       edges: []
@@ -575,10 +633,10 @@ TextureImporter:
       name: gameroomsprite_23
       rect:
         serializedVersion: 2
-        x: 5760
-        y: 1712
-        width: 1920
-        height: 1080
+        x: 2160
+        y: 5768
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -586,7 +644,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6507b9e6369c50478e2d6167fd7b69d
+      spriteID: 6aece4f4436ef8944aa706bf04df3fd1
       vertices: []
       indices: 
       edges: []
@@ -595,10 +653,10 @@ TextureImporter:
       name: gameroomsprite_24
       rect:
         serializedVersion: 2
-        x: 0
-        y: 632
-        width: 1920
-        height: 1080
+        x: 3240
+        y: 5768
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -606,7 +664,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30a103e4e4d6977449cc553f2b16b383
+      spriteID: 7776c671e0f54fd4a96550082be0ff10
       vertices: []
       indices: 
       edges: []
@@ -615,10 +673,10 @@ TextureImporter:
       name: gameroomsprite_25
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 632
-        width: 1920
-        height: 1080
+        x: 4320
+        y: 5768
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,7 +684,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75b06e6e7c604094686c7a388beec6fe
+      spriteID: 3155cb9f5f6dce840af1f52cd96b16bb
       vertices: []
       indices: 
       edges: []
@@ -635,10 +693,10 @@ TextureImporter:
       name: gameroomsprite_26
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 632
-        width: 1920
-        height: 1080
+        x: 5400
+        y: 5768
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -646,7 +704,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4dfc18f7ae62e90468adbcc46de56441
+      spriteID: fcf5f01f40089604d93b98de59bfea73
       vertices: []
       indices: 
       edges: []
@@ -655,10 +713,10 @@ TextureImporter:
       name: gameroomsprite_27
       rect:
         serializedVersion: 2
-        x: 5760
-        y: 632
-        width: 1920
-        height: 1080
+        x: 6480
+        y: 5768
+        width: 1080
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -666,7 +724,1167 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 896d870695ba0134caa0aa3cf1a46da9
+      spriteID: 7286159f96ed2174a98b7df23d69a906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756368b75fa3e274b89a1a5f66c606d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0835ae3ee119a544d9e8bbb2d5749514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_30
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5019ab214598a4aa4ef98c8dcadaaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_31
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cf43c4265a6094182bf7af512b082d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_32
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4089485f09d3f1f449a8aa0ee2b4ad73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_33
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b958e1c191184458b8d4a039b1ddb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_34
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eae85e2a894364482eb900f3974358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433e4608060ccba4cbdffc241c719057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f91a7d1d3b6d4a89ff31be6b5159f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_37
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d088c0e7b1273947a0fc8203220c0c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_38
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7796a17226031c349965f3525aaa0214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_39
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1952a4be9ef260c46a804db514bf0fe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_40
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249a79963f6691b41aad0e0fbe8486e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_41
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eeb9db3497a8a4a8ca73b45ed3f537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ba8a92bb7b38c4fbef379a13aba006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_43
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dded6b259d9bf8045ae5e76f8de2a1d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_44
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c73fb298c17bf5469243418afd39734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_45
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d22a165343d604aa6071471226aeaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_46
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aa8a452adc0ac458a97de9dff61fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_47
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012d89ff1def0d84c806b05d56ecc160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_48
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd367793c7a3aa49b14e714884e5259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42884b9fab368242ae267e04e0a02e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_50
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4963e5458bd75f744bf7a7e812c61c2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_51
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33eef01994c7e448a0781c86e70f796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_52
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff4e8e1a7dc194fbc8d7e7716ba2b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_53
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78e02fbf81e18545a6133fa8fabe421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_54
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f2eb7aa19676d468bf262fa7fb47ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_55
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770e72a1ebb221e47996fcd0ed0cd53e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb77830e1cd76ef449b314cb9796c672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_57
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f5e660e37741f428296efbb01b8364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_58
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede12c1f7a0e01e4e863c668321694ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_59
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23411d5da0d34142a6bc1594c481609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_60
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ede63270e914419f29b18be88feea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_61
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e57f762750f3e64aa43cfd51277d95d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_62
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f222405fac58745b1a2b28e55be900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a920b310e234c1843a7a3528f2302e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_64
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe44becfc612b34aaf5b0b3ea22c324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_65
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4138fc45026727d4d92c43a289da2ef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_66
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bc8e4a0b7553941b75b42962f6f8fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_67
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4591711be7f9fa143982154c587fd256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_68
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbe0d789b4cd824b96bf40095177768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_69
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c837be2d7442e2d4c8892f9a2c3f4119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160574be087085746afac20db8050150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_71
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c124da5889b480d499218b695c3d80ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_72
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7003c6880aae6f5438618ba629673aa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_73
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6a1a8694b394e4fa22175cb5a35aaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_74
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f25a21799bbe9348a449819703125c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_75
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9bd4abc1c514a438f29689d5e42cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_76
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e7ba3c1693eb45a6c54ce7c14b180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b60c9a75625074d8280c78e0ff9397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_78
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972fa541487a81449bdb8d5519f53219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_79
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d437c3ae760b534b9b60c8f561948f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_80
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd5bae772b613e45b01c8ae4c19a025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_81
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88cb5be0ce635944ab7252358f7c28c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_82
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b82a01b9a4c64698ee475f11b3c39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_83
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4e9b9b2b37f7143b64a889439473f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa1bc2b60ed2444ca761214d0bab599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameroomsprite_85
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 314
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b138d749ef1f40a4f8bb628fa65f13e2
       vertices: []
       indices: 
       edges: []
@@ -674,7 +1892,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 9b8fcf96f174d454eb09a51db177629a
+    spriteID: 368eff8181e9ca648ab3e9bddeef07ad
     vertices: []
     indices: 
     edges: []
