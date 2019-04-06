@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class CheckPassword : MonoBehaviour
 {
@@ -12,7 +13,8 @@ public class CheckPassword : MonoBehaviour
         {
             if (GetComponent<InputField>().text == "password")
             {
-                Debug.Log("Correct password!");
+                StartCoroutine(waitToEnterTerminal());
+                //Debug.Log("Correct password!");
             }
             
             else
@@ -21,5 +23,10 @@ public class CheckPassword : MonoBehaviour
                 GetComponent<InputField>().text = "";
             }
         }
+    }
+    IEnumerator waitToEnterTerminal()
+    {
+        yield return new WaitForSeconds(2);
+        SceneManager.LoadScene("Terminal Cypher");
     }
 }
