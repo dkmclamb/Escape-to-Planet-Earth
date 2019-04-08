@@ -9,6 +9,7 @@ public class MoveLetter : MonoBehaviour
     private Vector3 screenPoint;
     private Vector3 offset;
     public string letterStatus = "";
+    //private static MoveLetter letterInstance;
     /*
     public string GetLetterStatus()
     { return letterStatus; }
@@ -18,7 +19,27 @@ public class MoveLetter : MonoBehaviour
         letterStatus = value;
     }
     */
+    // Start is called before the first frame update
+    void Start()
+    {
+        DontDestroyOnLoad(this.gameObject);
 
+        /*if (letterInstance == null)
+        {
+            letterInstance = this;
+        }
+        else
+        {
+            DestroyObject(gameObject);
+        }
+        */
+
+        if (FindObjectsOfType(GetType()).Length > 9)
+        {
+            Destroy(gameObject);
+        }
+
+    }
     // Update is called once per frame
     void Update()
     {
