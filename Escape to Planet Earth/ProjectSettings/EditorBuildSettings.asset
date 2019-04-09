@@ -9,17 +9,35 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/Bulletin Board.unity
+    guid: cd59479f26e0cfb49b7fc07c703b9aa3
+  - enabled: 1
+    path: Assets/Scenes/Cabinet Keypad.unity
+    guid: 3bdbe60979684524384c4ff58445826f
+  - enabled: 1
     path: Assets/Scenes/Cellblock Hallway.unity
     guid: 265f016455f929d47a06f6b5c63e7667
   - enabled: 1
     path: Assets/Scenes/Game Over.unity
     guid: 08e9ed98605d513409ec8934a4302f26
   - enabled: 1
+    path: Assets/Scenes/Guard Station.unity
+    guid: 3149623b4c016a74181e52cdf251a01c
+  - enabled: 1
+    path: Assets/Scenes/Lights Out.unity
+    guid: 430ea75c095900f49851e38d978bc190
+  - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: a0989939a2160ea44b25fd854c11e678
   - enabled: 1
     path: Assets/Scenes/Prison Cell.unity
     guid: b4aaa2496a558044c913d5cd2948c484
+  - enabled: 1
+    path: Assets/Scenes/Terminal Cypher.unity
+    guid: 141f2df477430a240a70f702dd485bf2
+  - enabled: 1
+    path: Assets/Scenes/Terminal Password.unity
+    guid: 9d9cc7354d0e52447b1b606eaa7c6d39
   - enabled: 1
     path: Assets/Scenes/The Keypad.unity
     guid: 936232ec25507f949a5e6b327e518c73
