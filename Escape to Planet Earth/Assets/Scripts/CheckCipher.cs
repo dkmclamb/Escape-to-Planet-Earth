@@ -12,7 +12,10 @@ public class CheckCipher : MonoBehaviour
     {
         for (int n = 0; n < gameObject.transform.childCount; n++)
         {
-            currentLetters += gameObject.transform.GetChild(n).GetComponent<InputField>().text;
+            if (gameObject.transform.GetChild(n).name != "Button")
+            {
+                currentLetters += gameObject.transform.GetChild(n).GetComponent<InputField>().text;
+            }
         }
         
         if (currentLetters == "Cipher")
