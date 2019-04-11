@@ -1,0 +1,2010 @@
+fileFormatVersion: 2
+guid: 8692f39dc31706641ba8d420c93dac52
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: guardstationsprite_0
+    21300002: guardstationsprite_1
+    21300004: guardstationsprite_2
+    21300006: guardstationsprite_3
+    21300008: guardstationsprite_4
+    21300010: guardstationsprite_5
+    21300012: guardstationsprite_6
+    21300014: guardstationsprite_7
+    21300016: guardstationsprite_8
+    21300018: guardstationsprite_9
+    21300020: guardstationsprite_10
+    21300022: guardstationsprite_11
+    21300024: guardstationsprite_12
+    21300026: guardstationsprite_13
+    21300028: guardstationsprite_14
+    21300030: guardstationsprite_15
+    21300032: guardstationsprite_16
+    21300034: guardstationsprite_17
+    21300036: guardstationsprite_18
+    21300038: guardstationsprite_19
+    21300040: guardstationsprite_20
+    21300042: guardstationsprite_21
+    21300044: guardstationsprite_22
+    21300046: guardstationsprite_23
+    21300048: guardstationsprite_24
+    21300050: guardstationsprite_25
+    21300052: guardstationsprite_26
+    21300054: guardstationsprite_27
+    21300056: guardstationsprite_28
+    21300058: guardstationsprite_29
+    21300060: guardstationsprite_30
+    21300062: guardstationsprite_31
+    21300064: guardstationsprite_32
+    21300066: guardstationsprite_33
+    21300068: guardstationsprite_34
+    21300070: guardstationsprite_35
+    21300072: guardstationsprite_36
+    21300074: guardstationsprite_37
+    21300076: guardstationsprite_38
+    21300078: guardstationsprite_39
+    21300080: guardstationsprite_40
+    21300082: guardstationsprite_41
+    21300084: guardstationsprite_42
+    21300086: guardstationsprite_43
+    21300088: guardstationsprite_44
+    21300090: guardstationsprite_45
+    21300092: guardstationsprite_46
+    21300094: guardstationsprite_47
+    21300096: guardstationsprite_48
+    21300098: guardstationsprite_49
+    21300100: guardstationsprite_50
+    21300102: guardstationsprite_51
+    21300104: guardstationsprite_52
+    21300106: guardstationsprite_53
+    21300108: guardstationsprite_54
+    21300110: guardstationsprite_55
+    21300112: guardstationsprite_56
+    21300114: guardstationsprite_57
+    21300116: guardstationsprite_58
+    21300118: guardstationsprite_59
+    21300120: guardstationsprite_60
+    21300122: guardstationsprite_61
+    21300124: guardstationsprite_62
+    21300126: guardstationsprite_63
+    21300128: guardstationsprite_64
+    21300130: guardstationsprite_65
+    21300132: guardstationsprite_66
+    21300134: guardstationsprite_67
+    21300136: guardstationsprite_68
+    21300138: guardstationsprite_69
+    21300140: guardstationsprite_70
+    21300142: guardstationsprite_71
+    21300144: guardstationsprite_72
+    21300146: guardstationsprite_73
+    21300148: guardstationsprite_74
+    21300150: guardstationsprite_75
+    21300152: guardstationsprite_76
+    21300154: guardstationsprite_77
+    21300156: guardstationsprite_78
+    21300158: guardstationsprite_79
+    21300160: guardstationsprite_80
+    21300162: guardstationsprite_81
+    21300164: guardstationsprite_82
+    21300166: guardstationsprite_83
+    21300168: guardstationsprite_84
+    21300170: guardstationsprite_85
+    21300172: guardstationsprite_86
+    21300174: guardstationsprite_87
+    21300176: guardstationsprite_88
+    21300178: guardstationsprite_89
+    21300180: guardstationsprite_90
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guardstationsprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4ed5c6a2f8bcb4a96c81636b0642f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb5b2341ace0de489c56e507d41e561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3afcb5aee507741ba399c096c129ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9509a931210eb34d8d20f0f0a379228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93717464221ec74781a085d608bb58c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_5
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a74b406586fab74aa22480ee16ab01b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0b86afa4099464fbb7a194ef321373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c830f1abc711ae84cb1d13c439a26382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda09c010f4a0c74fb5469355f9ba0ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d6e3ff088646428424d5e65631e5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_10
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0867f03b18ff84a4ab3c3cae896a55c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_11
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb832236e9545b4db90d647a3a1a03f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_12
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83a5041cceced44b9bee60e14f9b3f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_13
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a196e3c43676cb4a950021f79680a2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed5211d3614c8246880ea83a5083208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3abe43257d84646b05f111f8bfadbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_16
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdcc811c75db7c45856583096ba2cd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_17
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3ce16cbf680404c937cf3635d63237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_18
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cbf693e61c04f449963df56fc42bbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_19
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9268ad6887484464fbb53ae3e7d47258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_20
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3223b6a8f0435484b8e3cfed73a37174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fbf593dc97eb548b2798cf7f6bc3f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f43ba86ef29364d83d2c660b6201ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_23
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417c6dfd56cedc4aa9b32fc641f4d7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_24
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c791c4820c6d7684385a84e063a1a802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_25
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4fe28b80cb363439b23bd5d89e9a10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_26
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293cba7d5a06f704c9b7ee4a5a8b3eee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_27
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e005f0716a0e96446957b50505266f64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150b16f607d7f5549b449775348c9e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d4b5fcc07cfb40bdadbf8345a6407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_30
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cc1a5225b991e43b657c81997cac6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_31
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b10c0d0768bfc4ebae9bf58c47cb64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_32
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444f6a509a3d1304395a1c89716d2101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_33
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84d4249e88b474449edcdfe051264e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_34
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1febef6a6eb3b8a45a30e93bcec87a38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f7685711949c942a1fd62ab879c589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f96fb49fc873514e9e695acf33ad86e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_37
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7500d51e4a8b24891b101fd92ffd54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_38
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2af1b86be05a946ba6cbe7d38069cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_39
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5606bfae0f6c6f646bbcbe7a5e122f3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_40
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a716ec0db5d8ef488e2932767b166fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_41
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe5793029ecbeb4fb8641eb4835ac13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d8dcf53177f8948818eea062df26bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_43
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc94be9d284ca544859251fb9e2fe09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_44
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3015e4ba536274f83a1258b98072c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_45
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8382659fbe1fa14bb666cddf70252d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_46
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ac9d872e951c549bdc1fa4687fae58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_47
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703149a4a2882c145a85e918ea52d135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_48
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1345ab1e6765d4289c354f1a394247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99108c38a3a8d746b3567012af94634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_50
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12c158bf520a6a46a91b4fde97f5f43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_51
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad55931b939399048907fbc9ee9de526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_52
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d242f25d290c1941bcb5a6a55a2680f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_53
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75943a65e7a2f74d8d08462ef627f47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_54
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32333f488e2f244fa2785689be39b45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_55
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3344
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f7f68cf460b3342b3826f91eb51c68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980859f1d70b28545a3cad37f0d9ec9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_57
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e560a054261ea43a773075c7067a13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_58
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd3967200875894996a86357a0b980a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_59
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a645cfb0365e134e89027bb3013eefe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_60
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add108028f7799a45a1cbe50d5d8b4e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_61
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01de1f4387f488344998ca6e4774663f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_62
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 2738
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e919b8e5d685324da778b90204dd822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f536ed67c4f9696448a485f6f9505347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_64
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cd1a396710f1447b77c391461e7c36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_65
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6f65112eaddd44ebf4530463fd2ad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_66
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746d754d4a748fa47bb6524a2b69f70b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_67
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de88e4eacc154544c9f99fc505d7e44f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_68
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7162fe3f67f97c40bf65b45736a2ac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_69
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 2132
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c0f4c6475ffab4b8d647050ffd0479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcd3cee308779145aabad5b764e275f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_71
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d5c65a6dc4c564f9e60e49ac16419f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_72
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa9dd7ee8e09a54e82dcc76f490601c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_73
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2d2ea81010bf54ab7865279169e356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_74
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dc8c3634b252d46bf7520da78da3d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_75
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc03490ef350304496837c26dd54285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_76
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1526
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6469b082af724df46a9d3b2d2a8b47d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfe1203080cbce48a1e9d22b4d6a0c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_78
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e430281e9fe6045813add5e4276561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_79
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa05a7470683e5147ac891d089ab095a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_80
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4c012c5e92e23468188772e5ca5e0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_81
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a023ffa53ee8c64f94f7fefc834bf8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_82
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354cf0f42df99754b9c810f4d412a47d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_83
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 920
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6eff178e45a4245b6459cc1740111b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91653cac5c04736429aa4796285390d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_85
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 314
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322d206569b08924e95df4abb2a63884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_86
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 314
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e091f2375628b43b2053421962ea8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_87
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 314
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9d9ee3cfd497c4b9e84c08ef55fec4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_88
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 314
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd6488a498eac042a067a01a9f6dbac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_89
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 314
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab84616c5cd2ed34c8333b3d4982e98b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardstationsprite_90
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 314
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23a5ca34b1358b459ac60063d4a04d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8d47d98e6d20d0d4988bbb63d844fc59
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

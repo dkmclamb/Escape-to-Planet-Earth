@@ -2,10 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
 
 public class LightSwitch : MonoBehaviour
 {
     public bool isOn;
+    private bool allOn = false;
     private SpriteRenderer spriteR;
     private Sprite lightOn;
     private Sprite lightOff;
@@ -27,7 +29,21 @@ public class LightSwitch : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        allOn = true;
+        LightSwitch[] array = FindObjectsOfType(GetType()) as LightSwitch[];
+        foreach (LightSwitch light in array)
+        {
+            if (light.isOn != true)
+            {
+                allOn = false;
+                break;
+            }
+        }
+
+        if (allOn)
+        {
+            StartCoroutine(waitToLeaveLightPuzzle());
+        }
     }
 
     public void Change()
@@ -44,6 +60,12 @@ public class LightSwitch : MonoBehaviour
             spriteR = gameObject.GetComponent<SpriteRenderer>();
             spriteR.sprite = lightOn;
         }
+    }
+
+    IEnumerator waitToLeaveLightPuzzle()
+    {
+        yield return new WaitForSeconds(1);
+        SceneManager.LoadScene("Bridge Transition");
     }
 
 }
