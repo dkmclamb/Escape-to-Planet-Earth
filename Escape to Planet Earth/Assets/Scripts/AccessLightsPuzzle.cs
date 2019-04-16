@@ -17,7 +17,7 @@ public class AccessLightsPuzzle : MonoBehaviour
         if (ClickControlLv2.totalDigits == 3 && ClickControlLv2.playerCode == ClickControlLv2.correctCode)
         {
             Button AccessButton = GetComponent<Button>();
-            AccessButton.enabled = true;
+            AccessButton.interactable = true;
         }
     }
 }
