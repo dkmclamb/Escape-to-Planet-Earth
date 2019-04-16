@@ -11,7 +11,7 @@ public class CheckPassword : MonoBehaviour
     {
         if (Input.GetKeyDown("return"))
         {
-            if (GetComponent<InputField>().text == "password")
+            if (GetComponent<InputField>().text == "Alein")
             {
                 StartCoroutine(waitToEnterTerminal());
                 //Debug.Log("Correct password!");

@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 
 public class ClickControl : MonoBehaviour, IPointerUpHandler
 {
-    public static string correctCode = "729";
+    public static string correctCode = "792";
     public static string playerCode = "";
     public static int totalDigits = 0;
     public static int numOfTries = 5;
