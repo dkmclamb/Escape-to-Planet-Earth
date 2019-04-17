@@ -1,0 +1,546 @@
+{
+    "version": {
+        "major": 5,
+        "minor": 0
+    },
+    "project": {
+        "format": {
+            "extension": "png"
+        },
+        "clip": {
+            "name": "Untitled",
+            "width": 1920,
+            "height": 1080,
+            "framerate": 24.0,
+            "pixelaspectratio": 1.0,
+            "image-count": 1,
+            "bg": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            },
+            "layers": [
+                {
+                    "name": "lock for light puzzle",
+                    "visible": true,
+                    "position": 0,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[000] lock for light puzzle/[0000] lock for light puzzle.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Light puzzle buttons",
+                    "visible": true,
+                    "position": 1,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[001] Light puzzle buttons/[0000] Light puzzle buttons.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Guard Station",
+                    "visible": true,
+                    "position": 2,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 3,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[002] Guard Station/[0000] Guard Station.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Docking Bay Door",
+                    "visible": true,
+                    "position": 3,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[003] Docking Bay Door/[0000] Docking Bay Door.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Filing Cabinet Drawers Shading",
+                    "visible": true,
+                    "position": 5,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[005] Filing Cabinet Drawers Shading/[0000] Filing Cabinet Drawers Shading.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drawer latches",
+                    "visible": true,
+                    "position": 6,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[006] Drawer latches/[0000] Drawer latches.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Filing Cabinet Drawers",
+                    "visible": true,
+                    "position": 7,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[007] Filing Cabinet Drawers/[0000] Filing Cabinet Drawers.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Filing Cabinet",
+                    "visible": true,
+                    "position": 8,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[008] Filing Cabinet/[0000] Filing Cabinet.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bulletin Board",
+                    "visible": true,
+                    "position": 9,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[009] Bulletin Board/[0000] Bulletin Board.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Light Puzzle",
+                    "visible": true,
+                    "position": 10,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[010] Light Puzzle/[0000] Light Puzzle.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Floating Terminal base",
+                    "visible": true,
+                    "position": 11,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[011] Floating Terminal base/[0000] Floating Terminal base.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "keypad for filing cabinet",
+                    "visible": true,
+                    "position": 12,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[012] keypad for filing cabinet/[0000] keypad for filing cabinet.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "room shading",
+                    "visible": true,
+                    "position": 13,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[013] room shading/[0000] room shading.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "desk",
+                    "visible": true,
+                    "position": 14,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 3,
+                    "post-behavior": 3,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 165,
+                        "green": 179,
+                        "blue": 57
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[014] desk/[0000] desk.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clues",
+                    "visible": true,
+                    "position": 15,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[015] Clues/[0000] Clues.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anim_0",
+                    "visible": true,
+                    "position": 16,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[016] Anim_0/[0000] Anim_0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bulletin Board",
+                    "visible": true,
+                    "position": 17,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[017] Bulletin Board/[0000] Bulletin Board.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "chair",
+                    "visible": true,
+                    "position": 18,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[018] chair/[0000] chair.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "light from Terminal",
+                    "visible": true,
+                    "position": 19,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[019] light from Terminal/[0000] light from Terminal.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "floating Terminal",
+                    "visible": true,
+                    "position": 20,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 3,
+                    "post-behavior": 3,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 165,
+                        "green": 179,
+                        "blue": 57
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[020] floating Terminal/[0000] floating Terminal.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,494 @@
+{
+    "version": {
+        "major": 5,
+        "minor": 0
+    },
+    "project": {
+        "format": {
+            "extension": "png"
+        },
+        "clip": {
+            "name": "BridgeTransitionUpdate (1).psd",
+            "width": 1920,
+            "height": 1080,
+            "framerate": 24.0,
+            "pixelaspectratio": 1.0,
+            "image-count": 1,
+            "bg": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            },
+            "layers": [
+                {
+                    "name": "Super Max-0",
+                    "visible": true,
+                    "position": 0,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[000] Super Max-0/[0000] Super Max-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Lift-0",
+                    "visible": true,
+                    "position": 1,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[001] Lift-0/[0000] Lift-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "cell windows-0",
+                    "visible": true,
+                    "position": 2,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[002] cell windows-0/[0000] cell windows-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cell Block Alpha-0",
+                    "visible": true,
+                    "position": 3,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[003] Cell Block Alpha-0/[0000] Cell Block Alpha-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cliff Shading-0",
+                    "visible": true,
+                    "position": 4,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[004] Cliff Shading-0/[0000] Cliff Shading-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "cliff Shading 2-0",
+                    "visible": true,
+                    "position": 5,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[005] cliff Shading 2-0/[0000] cliff Shading 2-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "stars-0",
+                    "visible": true,
+                    "position": 6,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[006] stars-0/[0000] stars-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "space-0",
+                    "visible": true,
+                    "position": 7,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[007] space-0/[0000] space-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "building shading 2-0",
+                    "visible": true,
+                    "position": 8,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[008] building shading 2-0/[0000] building shading 2-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "cell window shading-0",
+                    "visible": true,
+                    "position": 9,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[009] cell window shading-0/[0000] cell window shading-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "building shading-0",
+                    "visible": true,
+                    "position": 10,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[010] building shading-0/[0000] building shading-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "cliff-0",
+                    "visible": true,
+                    "position": 11,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[011] cliff-0/[0000] cliff-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Earth Reference-0",
+                    "visible": true,
+                    "position": 12,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[012] Earth Reference-0/[0000] Earth Reference-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Earth Clouds-0",
+                    "visible": true,
+                    "position": 13,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[013] Earth Clouds-0/[0000] Earth Clouds-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Earth 2-1-0",
+                    "visible": true,
+                    "position": 14,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[014] Earth 2-1-0/[0000] Earth 2-1-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Earth 2-0",
+                    "visible": true,
+                    "position": 15,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[015] Earth 2-0/[0000] Earth 2-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "earth water-0",
+                    "visible": true,
+                    "position": 16,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[016] earth water-0/[0000] earth water-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Docking Bay-0",
+                    "visible": true,
+                    "position": 18,
+                    "opacity": 255,
+                    "start": 0,
+                    "end": 0,
+                    "pre-behavior": 0,
+                    "post-behavior": 0,
+                    "blending-mode": "Color",
+                    "group": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "link": [
+                        {
+                            "instance-index": 0,
+                            "instance-name": "1",
+                            "file": "[018] Docking Bay-0/[0000] Docking Bay-0.png",
+                            "images": [
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
