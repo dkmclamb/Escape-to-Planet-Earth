@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class LightSwitch : MonoBehaviour
 {
     public bool isOn;
-    private bool allOn = false;
+    public static bool allOn = false;
     private SpriteRenderer spriteR;
     private Sprite lightOn;
     private Sprite lightOff;
@@ -65,7 +65,7 @@ public class LightSwitch : MonoBehaviour
     IEnumerator waitToLeaveLightPuzzle()
     {
         yield return new WaitForSeconds(1);
-        SceneManager.LoadScene("Bridge Transition");
+        SceneManager.LoadScene("Guard Station");
     }
 
 }
