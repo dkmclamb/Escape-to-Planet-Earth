@@ -124,10 +124,9 @@ GameObject:
   - component: {fileID: 676237445}
   - component: {fileID: 676237444}
   - component: {fileID: 676237443}
-  - component: {fileID: 676237442}
   - component: {fileID: 676237441}
   m_Layer: 5
-  m_Name: Guard Station Canvas
+  m_Name: Collect Key Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -175,18 +174,6 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
---- !u!225 &676237442
-CanvasGroup:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 676237440}
-  m_Enabled: 1
-  m_Alpha: 0.5
-  m_Interactable: 1
-  m_BlocksRaycasts: 1
-  m_IgnoreParentGroups: 0
 --- !u!114 &676237443
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -280,7 +267,7 @@ GameObject:
   - component: {fileID: 819186685}
   - component: {fileID: 819186684}
   m_Layer: 5
-  m_Name: Bulletin Board Button
+  m_Name: Collect Key Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -303,8 +290,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -4, y: -19}
-  m_SizeDelta: {x: 279.3, y: 161.6}
+  m_AnchoredPosition: {x: 5.03, y: -21.6}
+  m_SizeDelta: {x: 159.23, y: 43.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &819186684
 MonoBehaviour:
@@ -379,8 +366,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 289d66bc0ad688242a2633eb39963d37, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
