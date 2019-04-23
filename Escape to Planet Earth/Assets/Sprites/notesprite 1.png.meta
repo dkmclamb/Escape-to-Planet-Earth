@@ -1,0 +1,1128 @@
+fileFormatVersion: 2
+guid: a344799081c20d44e8ab982c90ba97be
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: notesprite 1_0
+    21300002: notesprite 1_1
+    21300004: notesprite 1_2
+    21300006: notesprite 1_3
+    21300008: notesprite 1_4
+    21300010: notesprite 1_5
+    21300012: notesprite 1_6
+    21300014: notesprite 1_7
+    21300016: notesprite 1_8
+    21300018: notesprite 1_9
+    21300020: notesprite 1_10
+    21300022: notesprite 1_11
+    21300024: notesprite 1_12
+    21300026: notesprite 1_13
+    21300028: notesprite 1_14
+    21300030: notesprite 1_15
+    21300032: notesprite 1_16
+    21300034: notesprite 1_17
+    21300036: notesprite 1_18
+    21300038: notesprite 1_19
+    21300040: notesprite 1_20
+    21300042: notesprite 1_21
+    21300044: notesprite 1_22
+    21300046: notesprite 1_23
+    21300048: notesprite 1_24
+    21300050: notesprite 1_25
+    21300052: notesprite 1_26
+    21300054: notesprite 1_27
+    21300056: notesprite 1_28
+    21300058: notesprite 1_29
+    21300060: notesprite 1_30
+    21300062: notesprite 1_31
+    21300064: notesprite 1_32
+    21300066: notesprite 1_33
+    21300068: notesprite 1_34
+    21300070: notesprite 1_35
+    21300072: notesprite 1_36
+    21300074: notesprite 1_37
+    21300076: notesprite 1_38
+    21300078: notesprite 1_39
+    21300080: notesprite 1_40
+    21300082: notesprite 1_41
+    21300084: notesprite 1_42
+    21300086: notesprite 1_43
+    21300088: notesprite 1_44
+    21300090: notesprite 1_45
+    21300092: notesprite 1_46
+    21300094: notesprite 1_47
+    21300096: notesprite 1_48
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: notesprite 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7574
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3092a7360d86074a8cb3e44cdf00ba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 7574
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7e5f44d729f6740b97b4896ee7362f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 7574
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb309bd4ebfcbb4da8c3afdecab92df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 7574
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf93f3f5295381439a4408526a44e31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 7574
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412fde3d2b407494293a1c4b94c097bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_5
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 7574
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1e7800f326db945ac183c877b56e14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 7574
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b1c1eedc9d9b04c9123da791f84b85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6956
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcd2575b7346e94ebdd36723663aa86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6956
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ffdfbe9e9a966438e952e0e06c5ea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 6956
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3a2477ddbbf944c94cc4f9c9fe8c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_10
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 6956
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2fef1378d37c843b78ea824cecbddf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_11
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 6956
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48875a57c3adb8c4aa6240d948377083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_12
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 6956
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db67cc3cc5eb2f342916aa64634ea853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_13
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 6956
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0dd9212eab4ba49b94a3c110308fa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6338
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6f37653d0a51d4eabc9277e2d398f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6338
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fe6d6ae67373d4f9b82b3021ea23dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_16
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 6338
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1167751f94443a44bb5aa7159ad9d117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_17
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 6338
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e40698f73c4b4f869ac042833facc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_18
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 6338
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148db5c7675710645a4ea85d329f4d22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_19
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 6338
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461f12c5ed28f1e4ab97232ca092aadb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_20
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 6338
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317c24ea89a1dd2448442e5bd19c7945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5720
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a307904c0491a6b41bac342117d56236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5720
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be7226f205927247a6fcff89dd1f0a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_23
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5720
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d213ec3d023be9941ac2d3ba6131aa99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_24
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5720
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd00fc2d02403b849adef3562156887b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_25
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5720
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afd0064cf75e3046aef5121f5b1a6b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_26
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5720
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e169a12a677cb4783e5d2505789fca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_27
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5720
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0649da42f606cbc49a4a390af7e58e47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5102
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf760a8561f2fe946b4af8a3492152d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5102
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795384bf938a9a941bac51f3e97c964a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_30
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5102
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee40ccd945371a46852f42abed39eb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_31
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5102
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb2b52719115d1439dd85791c32855c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_32
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5102
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b85b5429d0ae8a45b2e08236b83342f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_33
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5102
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466577bb1f4d56446879c0eaff43be57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_34
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5102
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025f004477bf40c418b1b089105b5c58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4484
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c62bcd3e170bb49b46a6b7ddead3f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4484
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7deeb950990f04ab1971dfc4ed55d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_37
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4484
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a60b99048223d5438f9954df5d35850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_38
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4484
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f409b051828cd4f82fcc307f349138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_39
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4484
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087734f1e580df84fbacdce5d57446d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_40
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 4484
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0fdaf6c5bc5c4fb5b0accbc977055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_41
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 4484
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18528a6aa8ee734ea1f4d6bf4ef518b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3866
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560b0536a7020694caa7b182448e45a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_43
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3866
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab8e8b73120b1841ab8aea0d809d10a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_44
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3866
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef63a6e4c65026a4d82f2439e0064f5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_45
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3866
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d146cb3170fcf9b469c13f3825c447ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_46
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3866
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbed189dcb3bf2449956a5947096d73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_47
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3866
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20c3264b194af468875bcd4051a748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notesprite 1_48
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3866
+        width: 1080
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d273122bf65bc648a73b413289d9292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 827d99ab734fff04e80048434b9f64b7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

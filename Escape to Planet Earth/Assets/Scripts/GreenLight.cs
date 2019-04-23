@@ -24,7 +24,7 @@ public class GreenLight : MonoBehaviour
     IEnumerator waitToLeaveKeypad()
     {
         yield return new WaitForSeconds(1);
-        SceneManager.LoadScene("Prison Cell");
+        SceneManager.LoadScene("Lvl1 Win Dialogue Guard");
     }
     
 }
