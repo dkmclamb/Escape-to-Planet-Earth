@@ -108,6 +108,8 @@ public class MoveLetter : MonoBehaviour
         if (other.gameObject.name == gameObject.name)
         {
             transform.position = other.gameObject.transform.position;
+            AudioSource connectSound = GetComponent<AudioSource>();
+            connectSound.Play();
             letterStatus = "locked";
         }
     }

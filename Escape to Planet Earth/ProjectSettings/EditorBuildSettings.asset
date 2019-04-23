@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Collect Key.unity
     guid: a61d8b6fbcd9ade4f81d2e458b3fd212
   - enabled: 1
+    path: Assets/Scenes/Docking Bay.unity
+    guid: 9d02a387e6b8d3043a86cfe1f762e75c
+  - enabled: 1
     path: Assets/Scenes/Game Over.unity
     guid: 08e9ed98605d513409ec8934a4302f26
   - enabled: 1
@@ -32,6 +35,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lights Out.unity
     guid: 430ea75c095900f49851e38d978bc190
+  - enabled: 1
+    path: Assets/Scenes/Lvl1 Startup Dialogue Guard.unity
+    guid: daf12a9c5d2964b42ae6c857a869395e
+  - enabled: 1
+    path: Assets/Scenes/Lvl1 Startup Dialogue Spud.unity
+    guid: 2fba2f0262f763248a0d2a9ce0f2cda6
+  - enabled: 1
+    path: Assets/Scenes/Lvl1 Win Dialogue Guard.unity
+    guid: a9c2c61ea7f1fba4398bef3daa885fe9
+  - enabled: 1
+    path: Assets/Scenes/Lvl1 Win Dialogue King Bukac.unity
+    guid: f1eea2684d483c44bb8f822bc929ba10
   - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: a0989939a2160ea44b25fd854c11e678
