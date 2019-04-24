@@ -16,8 +16,8 @@ public class LightSwitch : MonoBehaviour
     void Start()
     {
         sprites = Resources.LoadAll<Sprite>("Sprites");
-        lightOn = sprites[0];
-        lightOff = sprites[1];
+        lightOn = sprites[4];
+        lightOff = sprites[5];
         isOn = (Random.Range(0, 2) == 0);
         if (isOn == true)
         {

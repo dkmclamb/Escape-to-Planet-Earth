@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class CheckPassword : MonoBehaviour
 {
-    //public static int numOfTries = 5;
+    public static int numOfTries = 5;
     // Update is called once per frame
     void Update()
     {
@@ -14,7 +14,7 @@ public class CheckPassword : MonoBehaviour
         {
             if (GetComponent<InputField>().text == "Alein")
             {
-                //numOfTries = 5;
+                numOfTries = 5;
                 StartCoroutine(waitToEnterTerminal());
                 //Debug.Log("Correct password!");
             }
@@ -22,15 +22,15 @@ public class CheckPassword : MonoBehaviour
             else
             {
                 //Debug.Log("Wrong password! Try again!");
-                //numOfTries -= 1;
+                numOfTries -= 1;
                 GetComponent<InputField>().text = "";
-                /*
+                
                 if (numOfTries == 0)
                 {
                     numOfTries = 5;
                     SceneManager.LoadScene("Game Over");
                 }
-                */
+                
             }
         }
     }

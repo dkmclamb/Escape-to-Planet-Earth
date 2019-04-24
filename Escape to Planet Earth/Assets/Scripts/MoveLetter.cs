@@ -22,7 +22,8 @@ public class MoveLetter : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        DontDestroyOnLoad(this.gameObject);
+        //DontDestroyOnLoad(this.gameObject);
+        DontDestroyOnLoadManager.DontDestroyOnLoad(this.gameObject);
 
         /*if (letterInstance == null)
         {
