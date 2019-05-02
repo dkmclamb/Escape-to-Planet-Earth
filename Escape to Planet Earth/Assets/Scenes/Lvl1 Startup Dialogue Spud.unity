@@ -147,8 +147,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 102.8, y: -53.9}
-  m_SizeDelta: {x: 560.4, y: 400.2}
+  m_AnchoredPosition: {x: 126.6, y: -56}
+  m_SizeDelta: {x: 837.4, y: 413.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &296755306
 MonoBehaviour:
@@ -163,12 +163,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DialogueStrings:
-  - "Hi, my name is Spud. I\u2019m an alien imprisoned here on Astro Starbin where
-    I accidentally crash landed here on a discovery mission to a planet called Earth."
-  - King Bukac, ruler of Astro Starbin, is accusing me of attempting to take over
-    his position as King. I promise you I am innocent. Can you help me escape?
-  SecondsBetweenCharacters: 0.15
-  CharacterRateMultiplier: 0.5
+  - "Hi, my name is Spud. I\u2019m an@alien imprisoned here on@Astro Starbin where
+    I@accidentally crash landed@here on a discovery mission@to a planet called Earth."
+  - 'King Bukac, ruler of Astro@Starbin, is accusing me of@attempting to take over
+    his@position as King. I promise@you I am innocent. Can you@help me escape? '
+  SecondsBetweenCharacters: 0.0075
+  CharacterRateMultiplier: 0.25
   DialogueInput: 13
   sceneName: Lvl1 Startup Dialogue Guard
   ContinueIcon: {fileID: 801568158}
@@ -186,7 +186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -194,7 +194,7 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 9960cb08b3049cb458e93362748630cb, type: 3}
     m_FontSize: 48
     m_FontStyle: 0
     m_BestFit: 0
@@ -206,7 +206,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Press Enter to Continue. Hold Enter to Speed Up the Dialogue.
+  m_Text: 
 --- !u!222 &296755308
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -444,8 +444,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 434, y: -232}
-  m_SizeDelta: {x: -924.8, y: -485.4}
+  m_AnchoredPosition: {x: 520.6, y: -250.4}
+  m_SizeDelta: {x: -1098, y: -522.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &801568160
 MonoBehaviour:
@@ -697,8 +697,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 434.00024, y: -232.00012}
-  m_SizeDelta: {x: -924.8, y: -485.4}
+  m_AnchoredPosition: {x: 520.57, y: -250.4}
+  m_SizeDelta: {x: -1098.1, y: -522.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1598614686
 MonoBehaviour:
@@ -797,7 +797,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: a1ba33eecd254284ea57fc238a2ed08a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 082375203d9d0ce43aa9b92939f891fe, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

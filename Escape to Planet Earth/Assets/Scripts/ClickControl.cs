@@ -14,7 +14,6 @@ public class ClickControl : MonoBehaviour, IPointerUpHandler
     // Start is called before the first frame update
     void Start()
     {
-        
     }
 
     // Update is called once per frame
@@ -45,5 +44,11 @@ public class ClickControl : MonoBehaviour, IPointerUpHandler
             playerCode += gameObject.name;
             totalDigits += 1;
         }
+    }
+
+    public void resetPlayerCode()
+    {
+        playerCode = "";
+        totalDigits = 0;
     }
 }

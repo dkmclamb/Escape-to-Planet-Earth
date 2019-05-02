@@ -65,7 +65,7 @@ public class LightSwitch : MonoBehaviour
     IEnumerator waitToLeaveLightPuzzle()
     {
         yield return new WaitForSeconds(1);
-        SceneManager.LoadScene("Guard Station");
+        SceneManager.LoadScene("Lvl2 Win Dialogue Guard");
     }
 
 }

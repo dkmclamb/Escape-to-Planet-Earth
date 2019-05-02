@@ -205,8 +205,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 255395947}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.03, y: 0.1, z: 0}
-  m_LocalScale: {x: 1.5903252, y: 1.5903252, z: 1.5903252}
+  m_LocalPosition: {x: 0.0002, y: -0.0054, z: 0}
+  m_LocalScale: {x: 1.7394475, y: 1.4575683, z: 1.5903252}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -777,8 +777,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -27, y: 29}
-  m_SizeDelta: {x: 177.2, y: 71}
+  m_AnchoredPosition: {x: -25.67, y: 21.75}
+  m_SizeDelta: {x: 249.39, y: 74.19}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &887866138
 MonoBehaviour:
@@ -894,6 +894,7 @@ GameObject:
   - component: {fileID: 1211253760}
   - component: {fileID: 1211253759}
   - component: {fileID: 1211253762}
+  - component: {fileID: 1211253763}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -977,6 +978,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b6d491eae762ab46874eca6434660e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1211253763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1211253758}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88d9f2e890a9f564cb6294d140d01248, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1338569466
 GameObject:
   m_ObjectHideFlags: 0
@@ -1052,8 +1065,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1338569466}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.05, y: -0.03, z: 0}
-  m_LocalScale: {x: 1.5675507, y: 1.4605764, z: 0.546927}
+  m_LocalPosition: {x: 0.007, y: -0.0204, z: 0}
+  m_LocalScale: {x: 1.7447215, y: 1.4637897, z: 0.546927}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
@@ -1125,8 +1138,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -267.5, y: 5.9}
-  m_SizeDelta: {x: 162.03, y: 64.66}
+  m_AnchoredPosition: {x: -293.3, y: -1.23}
+  m_SizeDelta: {x: 180.65, y: 62.06}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1595611480
 MonoBehaviour:
@@ -1255,8 +1268,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 240.3, y: -101.1}
-  m_SizeDelta: {x: 140.28, y: 32.4}
+  m_AnchoredPosition: {x: 259.48, y: -99.5}
+  m_SizeDelta: {x: 148.11, y: 32.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1667056764
 MonoBehaviour:
@@ -1469,8 +1482,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -127.07, y: 20.8}
-  m_SizeDelta: {x: 97.55, y: 71}
+  m_AnchoredPosition: {x: -142.41, y: 12.659997}
+  m_SizeDelta: {x: 109.63, y: 63.35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1857544631
 MonoBehaviour:
@@ -1521,6 +1534,17 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: The Keypad
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1211253763}
+        m_MethodName: resetPlayerCode
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,

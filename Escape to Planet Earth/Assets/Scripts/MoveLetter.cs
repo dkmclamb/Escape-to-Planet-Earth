@@ -111,7 +111,15 @@ public class MoveLetter : MonoBehaviour
             transform.position = other.gameObject.transform.position;
             AudioSource connectSound = GetComponent<AudioSource>();
             connectSound.Play();
+            //StartCoroutine(waitToMute());
+            //connectSound.mute = true;
             letterStatus = "locked";
         }
     }
+    /*
+    IEnumerator waitToMute()
+    {
+        yield return new WaitForSeconds(3);
+    }
+    */
 }

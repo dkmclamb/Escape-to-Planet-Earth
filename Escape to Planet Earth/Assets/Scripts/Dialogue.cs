@@ -10,8 +10,8 @@ public class Dialogue : MonoBehaviour
 
     public string[] DialogueStrings;
 
-    public float SecondsBetweenCharacters = 0.15f;
-    public float CharacterRateMultiplier = 0.5f;
+    public float SecondsBetweenCharacters = 0.01f;
+    public float CharacterRateMultiplier = 0.25f;
 
     public KeyCode DialogueInput = KeyCode.Return;
     public string sceneName;
@@ -102,8 +102,16 @@ public class Dialogue : MonoBehaviour
 
         while (currentCharacterIndex < stringLength)
         {
-            _textComponent.text += stringToDisplay[currentCharacterIndex];
-            currentCharacterIndex++;
+            if (stringToDisplay[currentCharacterIndex] == '@')
+            {
+                _textComponent.text += "\n";
+                currentCharacterIndex++;
+            }
+            else
+            {
+                _textComponent.text += stringToDisplay[currentCharacterIndex];
+                currentCharacterIndex++;
+            }
 
             if (currentCharacterIndex < stringLength)
             {

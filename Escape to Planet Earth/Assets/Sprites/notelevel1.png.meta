@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: a734098f1f24afe4b99b97b8ac794b7f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: notelevel1_0
+    21300002: notelevel1_1
+    21300004: notelevel1_2
+    21300006: notelevel1_3
+    21300008: notelevel1_4
+    21300010: notelevel1_5
+    21300012: notelevel1_6
+    21300014: notelevel1_7
+    21300016: notelevel1_8
+    21300018: notelevel1_9
+    21300020: notelevel1_10
+    21300022: notelevel1_11
+    21300024: notelevel1_12
+    21300026: notelevel1_13
+    21300028: notelevel1_14
+    21300030: notelevel1_15
+    21300032: notelevel1_16
+    21300034: notelevel1_17
+    21300036: notelevel1_18
+    21300038: notelevel1_19
+    21300040: notelevel1_20
+    21300042: notelevel1_21
+    21300044: notelevel1_22
+    21300046: notelevel1_23
+    21300048: notelevel1_24
+    21300050: notelevel1_25
+    21300052: notelevel1_26
+    21300054: notelevel1_27
+    21300056: notelevel1_28
+    21300058: notelevel1_29
+    21300060: notelevel1_30
+    21300062: notelevel1_31
+    21300064: notelevel1_32
+    21300066: notelevel1_33
+    21300068: notelevel1_34
+    21300070: notelevel1_35
+    21300072: notelevel1_36
+    21300074: notelevel1_37
+    21300076: notelevel1_38
+    21300078: notelevel1_39
+    21300080: notelevel1_40
+    21300082: notelevel1_41
+    21300084: notelevel1_42
+    21300086: notelevel1_43
+    21300088: notelevel1_44
+    21300090: notelevel1_45
+    21300092: notelevel1_46
+    21300094: notelevel1_47
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: notelevel1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6953dc250e347d342a3c37095e3587eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c0c52b085f0854db9d29de2fabe483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f110639e86fe72b4e9a75340d6f54ba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75529961624c55746b1d7a83e4aaf4c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca16739bd9577e46b96ce8f9125c13a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_5
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b46c3cf560d75498e0feed7837fb12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 7586
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3dbb03ef6a0e24b9086f6a01579cb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee27756c2ae8dc4cb22683ada8d2236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d4ad6b0e3071340b33162e8e6f6a26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f43a7288c9b7674686a1071058b63f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_10
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b14f0fe36c005469c05ae64e936562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_11
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46daff8690adab4e89ad9c9c43e9fbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_12
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585ee5c51fec4d7448d2cc3ea145a4f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_13
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 6980
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016515adc041c9a409d2067ca3ac5db3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcf7be9052ee2743a873f1dc9b07a7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1b2d39f60ca3946bfe6b29a0d2ce90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_16
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34105f63f625a25409b9cd37af51263c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_17
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e19e48d802b72439d8557f534fc56f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_18
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f8dc929a5de8946b963afbcf2ac557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_19
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a40f562d7253354197f8f535487fdd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_20
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 6374
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc08e3b32ebd6d44a71790e48f7f343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baae9ecd63cbf954594e18c28ef1952b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e119410d0319d1b40874f5c0396a4cf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_23
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c6be9b0333abf40a5822d308b4a827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_24
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b0874d51c4f7e4886688ffa0feb962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_25
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd769b88c5de9f0419222609dd5f9ad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_26
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3019a7eea3f36c94a876c6288b987472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_27
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5768
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1abe22ecebca534bac60bae7c5c0cdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839398293a154ad4c8290ec4035aaf96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644068666b6babf4e9c12b0c6cec6f53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_30
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f578515df5da91644a3cfd01048a9d8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_31
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa16b1d96841c4da5ebc959db20afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_32
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e561678ecbe0d3f4a8b32021ce163828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_33
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3671541c3919ea4d8e1b63f7dd55405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_34
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5162
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1c5919a9956b843b09f10ab59c5c42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddb89ac631ac164a938cd01f333ac33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6a6525c0f849f47b937b0af7b44d7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_37
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aca2318b4171c41b4211519fec6498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_38
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ffa7dd32d95b34b8c89657b2b5dba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_39
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cbde9c013e12846a997a5fa5a31809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_40
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db75516c665ea6b4d95d8daa28048179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_41
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 4556
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7d7ebca3a0d1d46b1ec6d9b26734ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a673694f9ae313c40b0931aae66acdc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_43
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9e9d6109b14ff4881c087231ac5970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_44
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc6fef1d8e28974fa9e465abac76fa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_45
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4ce74b55f241940b3c8d695d2ae4c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_46
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f9e8b8d1f349f4f998404be6179e06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notelevel1_47
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3950
+        width: 1080
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea196945a24ba043ac2c148ef303e5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a1b01dd22d9f2934cabd3223e2e0f6d1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

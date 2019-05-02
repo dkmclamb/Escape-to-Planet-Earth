@@ -526,8 +526,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1061008951}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 57.12, y: 28.7, z: 0}
-  m_LocalScale: {x: 1.9228374, y: 1.7833363, z: 1}
+  m_LocalPosition: {x: 57.0989, y: 28.7, z: 0}
+  m_LocalScale: {x: 2.1302369, y: 1.7833363, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -563,7 +563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 900b4d82320b9d14f9eae57f7f83e0f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Guard Station
+  sceneName: Lvl2 Startup Dialogue Guard
 --- !u!1 &1801573992
 GameObject:
   m_ObjectHideFlags: 0
@@ -600,8 +600,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -115.7, y: -33.8}
-  m_SizeDelta: {x: 88.8, y: 117.3}
+  m_AnchoredPosition: {x: -121.17, y: -20.59}
+  m_SizeDelta: {x: 99.73, y: 143.73}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1801573994
 MonoBehaviour:
@@ -651,7 +651,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Guard Station
+          m_StringArgument: Lvl2 Startup Dialogue Guard
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
