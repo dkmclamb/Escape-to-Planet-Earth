@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
-    guid: a0989939a2160ea44b25fd854c11e678
-  - enabled: 1
     path: Assets/Scenes/Bridge Transition.unity
     guid: aa9c41a64396dbb48a450900a738d97c
   - enabled: 1
@@ -29,6 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Docking Bay.unity
     guid: 9d02a387e6b8d3043a86cfe1f762e75c
+  - enabled: 1
+    path: Assets/Scenes/Escape Scene.unity
+    guid: b905ea5c673229642b3a4bf3bf76ed7a
   - enabled: 1
     path: Assets/Scenes/Game Over.unity
     guid: 08e9ed98605d513409ec8934a4302f26
@@ -51,6 +51,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Lvl1 Win Dialogue King Bukac.unity
     guid: f1eea2684d483c44bb8f822bc929ba10
   - enabled: 1
+    path: Assets/Scenes/Lvl3 Win Dialogue King Bukac.unity
+    guid: 3997695ffcdf4d4489dcb86543f8bf52
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: a0989939a2160ea44b25fd854c11e678
+  - enabled: 1
     path: Assets/Scenes/Prison Cell.unity
     guid: b4aaa2496a558044c913d5cd2948c484
   - enabled: 1
@@ -69,18 +75,6 @@ EditorBuildSettings:
     path: Assets/Scenes/The Wall.unity
     guid: 142f2af6111ecd4488d3985153c1f6f8
   - enabled: 1
-    path: Assets/Scenes/Escape Scene.unity
-    guid: b905ea5c673229642b3a4bf3bf76ed7a
-  - enabled: 1
     path: Assets/Scenes/To Be Continued.unity
     guid: 8b9cd28aec993804c9c2184d7190fcdc
-  - enabled: 1
-    path: Assets/Scenes/Lvl3 Win Dialogue King Bukac.unity
-    guid: 3997695ffcdf4d4489dcb86543f8bf52
-  - enabled: 1
-    path: Assets/Scenes/Lvl2 Startup Dialogue Guard.unity
-    guid: e604dc8f69f82ac428f9cf145c2bfc6c
-  - enabled: 1
-    path: Assets/Scenes/Lvl2 Win Dialogue Guard.unity
-    guid: c083f9cf2609a0c43afe5a115f9d50b2
   m_configObjects: {}
