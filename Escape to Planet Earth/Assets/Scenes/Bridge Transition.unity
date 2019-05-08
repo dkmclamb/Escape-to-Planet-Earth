@@ -306,4 +306,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 900b4d82320b9d14f9eae57f7f83e0f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Docking Bay
+  sceneName: Lvl3 Startup Dialogue Guard

@@ -375,7 +375,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 533.37, y: -239.1}
+  m_AnchoredPosition: {x: 533.37, y: -239.09998}
   m_SizeDelta: {x: -1107.3, y: -518.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &555141803
@@ -551,7 +551,7 @@ MonoBehaviour:
   SecondsBetweenCharacters: 0.01
   CharacterRateMultiplier: 0.25
   DialogueInput: 13
-  sceneName: Bridge Transition
+  sceneName: Lvl2 Win Dialogue Spud
   ContinueIcon: {fileID: 555141801}
   StopIcon: {fileID: 762473005}
 --- !u!114 &732249653
@@ -630,7 +630,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 533.38, y: -239.1}
+  m_AnchoredPosition: {x: 533.38, y: -239.09998}
   m_SizeDelta: {x: -1107.3, y: -518.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &762473007

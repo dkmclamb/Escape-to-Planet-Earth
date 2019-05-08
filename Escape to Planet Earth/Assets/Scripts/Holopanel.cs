@@ -62,6 +62,6 @@ public class Holopanel : MonoBehaviour
     IEnumerator waitToLeaveDockingBay()
     {
         yield return new WaitForSeconds(1);
-        SceneManager.LoadScene("Escape Scene");
+        SceneManager.LoadScene("Lvl3 Win Dialogue Guard");
     }
 }

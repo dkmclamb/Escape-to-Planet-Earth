@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: a0989939a2160ea44b25fd854c11e678
+  - enabled: 1
     path: Assets/Scenes/Bridge Transition.unity
     guid: aa9c41a64396dbb48a450900a738d97c
   - enabled: 1
@@ -51,11 +54,44 @@ EditorBuildSettings:
     path: Assets/Scenes/Lvl1 Win Dialogue King Bukac.unity
     guid: f1eea2684d483c44bb8f822bc929ba10
   - enabled: 1
+    path: Assets/Scenes/Lvl2 Startup Dialogue Guard.unity
+    guid: e604dc8f69f82ac428f9cf145c2bfc6c
+  - enabled: 1
+    path: Assets/Scenes/Lvl2 Startup Dialogue Spud.unity
+    guid: e1bc51271fa002545a52c3dad54fad8d
+  - enabled: 1
+    path: Assets/Scenes/Lvl2 Win Dialogue Guard.unity
+    guid: c083f9cf2609a0c43afe5a115f9d50b2
+  - enabled: 1
+    path: Assets/Scenes/Lvl2 Win Dialogue Guard 2.unity
+    guid: 5e82f758edf23f7498805916d5cbde36
+  - enabled: 1
+    path: Assets/Scenes/Lvl2 Win Dialogue Guard 3.unity
+    guid: 330b2c097a2c5ae49b1b93f2789e07ab
+  - enabled: 1
+    path: Assets/Scenes/Lvl2 Win Dialogue King Bukac.unity
+    guid: 8f36bb6927a83dc4d9df1a8e22352614
+  - enabled: 1
+    path: Assets/Scenes/Lvl2 Win Dialogue King Bukac 2.unity
+    guid: 094e375e71fa7b045ab76768326e7754
+  - enabled: 1
+    path: Assets/Scenes/Lvl2 Win Dialogue Spud.unity
+    guid: 5d1ba3547cdae5f499ade7c2a0443502
+  - enabled: 1
+    path: Assets/Scenes/Lvl3 Startup Dialogue Guard.unity
+    guid: cd9c65ae604a4d24c9f7aee64d1ee713
+  - enabled: 1
+    path: Assets/Scenes/Lvl3 Win Dialogue Guard.unity
+    guid: 7ba9f0ac53ef10b408ee35de8a0bff20
+  - enabled: 1
+    path: Assets/Scenes/Lvl3 Win Dialogue Guard 2.unity
+    guid: bed85cdac6469db4aa650d34a398a544
+  - enabled: 1
     path: Assets/Scenes/Lvl3 Win Dialogue King Bukac.unity
     guid: 3997695ffcdf4d4489dcb86543f8bf52
   - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
-    guid: a0989939a2160ea44b25fd854c11e678
+    path: Assets/Scenes/Lvl3 Win Dialogue Spud.unity
+    guid: f74845b768731434cbefbaf8265758f7
   - enabled: 1
     path: Assets/Scenes/Prison Cell.unity
     guid: b4aaa2496a558044c913d5cd2948c484
