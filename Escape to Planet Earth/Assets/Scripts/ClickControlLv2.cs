@@ -11,6 +11,7 @@ public class ClickControlLv2 : MonoBehaviour, IPointerUpHandler
     public static string playerCode = "";
     public static int totalDigits = 0;
     public static int numOfTries = 5;
+    public RedLightLvl2 redLight;
     // Start is called before the first frame update
     void Start()
     {
@@ -27,6 +28,7 @@ public class ClickControlLv2 : MonoBehaviour, IPointerUpHandler
                 playerCode = "";
                 totalDigits = 0;
                 numOfTries -= 1;
+                redLight.wrongCode();
 
                 if (numOfTries == 0)
                 {

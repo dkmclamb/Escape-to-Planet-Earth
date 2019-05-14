@@ -11,22 +11,22 @@ public class Holopanel : MonoBehaviour
     public bool isOn;
     //public Holopanel[] array;
     private SpriteRenderer spriteR;
-    private Sprite yellow;
-    private Sprite green;
-    private Sprite grey;
-    private UnityEngine.Sprite[] sprites;
-    private char g = 'G';
+    //private Sprite yellow;
+    //private Sprite green;
+    //private Sprite grey;
+    //private UnityEngine.Sprite[] sprites;
+    //private char g = 'G';
 
     // Start is called before the first frame update
     void Start()
     {
-        sprites = Resources.LoadAll<Sprite>("Sprites");
-        yellow = sprites[6];
-        green = sprites[0];
-        grey = sprites[1];
+        //sprites = Resources.LoadAll<Sprite>("Sprites");
+        //yellow = sprites[6];
+        //green = sprites[0];
+        //grey = sprites[1];
         spriteR = gameObject.GetComponent<SpriteRenderer>();
         isOn = false;
-        spriteR.sprite = grey;
+        spriteR.enabled = false;
     }
 
     // Update is called once per frame
@@ -45,11 +45,12 @@ public class Holopanel : MonoBehaviour
         if (isOn)
         {
             isOn = false;
-            spriteR.sprite = grey;
+            spriteR.enabled = false;
         }
         else
         {
             isOn = true;
+            /*
             if (gameObject.name[0] == g)
             {
                 spriteR.sprite = green;
@@ -58,6 +59,8 @@ public class Holopanel : MonoBehaviour
             {
                 spriteR.sprite = yellow;
             }
+            */
+            spriteR.enabled = true;
         }
     }
 
