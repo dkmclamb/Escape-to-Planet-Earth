@@ -9,7 +9,7 @@ using UnityEngine.SceneManagement;
 public class Holopanel : MonoBehaviour
 {
     public bool isOn;
-    public Holopanel[] array;
+    //public Holopanel[] array;
     private SpriteRenderer spriteR;
     private Sprite yellow;
     private Sprite green;
@@ -32,10 +32,12 @@ public class Holopanel : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        /*
         if (array[0].isOn == false && array[1].isOn == true && array[2].isOn == false && array[3].isOn == true && array[4].isOn == true && array[5].isOn == false && array[6].isOn == false && array[7].isOn == false && array[8].isOn == true && array[9].isOn == false && array[10].isOn == true && array[11].isOn == false && array[12].isOn == false && array[13].isOn == true && array[14].isOn == true && array[15].isOn == true)
         {
             StartCoroutine(waitToLeaveDockingBay());
         }
+        */
     }
 
     public void Change()
@@ -59,9 +61,11 @@ public class Holopanel : MonoBehaviour
         }
     }
 
+    /*
     IEnumerator waitToLeaveDockingBay()
     {
         yield return new WaitForSeconds(1);
         SceneManager.LoadScene("Lvl3 Win Dialogue Guard");
     }
+    */
 }

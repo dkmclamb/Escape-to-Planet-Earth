@@ -163,8 +163,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DialogueStrings:
-  - "Hi, my name is Spud. I\u2019m an@alien imprisoned here on@Astro Starbin where
-    I@accidentally crash landed@here on a discovery mission@to a planet called Earth."
+  - Hi, my name is Spud. I am an@alien imprisoned here on@Astro Starbin where I@accidentally
+    crash landed@here on a discovery mission@to a planet called Earth.
   - 'King Bukac, ruler of Astro@Starbin, is accusing me of@attempting to take over
     his@position as King. I promise@you I am innocent. Can you@help me escape? '
   SecondsBetweenCharacters: 0.0075
@@ -393,8 +393,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: b0baa8afada19c644a03c6afdee5ae28, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -444,7 +444,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 520.6, y: -250.4}
+  m_AnchoredPosition: {x: 520.6, y: -250.40002}
   m_SizeDelta: {x: -1098, y: -522.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &801568160
@@ -528,7 +528,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1345017661}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -697,7 +697,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 520.57, y: -250.4}
+  m_AnchoredPosition: {x: 520.57, y: -250.40002}
   m_SizeDelta: {x: -1098.1, y: -522.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1598614686

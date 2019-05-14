@@ -140,7 +140,7 @@ Animator:
   m_GameObject: {fileID: 255395947}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 039c4fa50ce5bca41b49bfb9c117c834, type: 2}
+  m_Controller: {fileID: 9100000, guid: 60efe7944ff2a52459c53e0ea856f5c8, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -186,7 +186,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 7ca95a38325396b408c60f928030c4b5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 12f40e85fa0350f45ac5fc77e432dfd3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1046,7 +1046,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 96cf4678e592df14a80e139ca1b407c2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f4a5dc2731aca894c80be4ca4bfdae8c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1093,7 +1093,7 @@ Animator:
   m_GameObject: {fileID: 1338569466}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 682ab3dd84ea4794ab17a6aec17589a2, type: 2}
+  m_Controller: {fileID: 9100000, guid: 8bb2b52b865668b44a83466408d46b75, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1138,8 +1138,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -293.3, y: -1.23}
-  m_SizeDelta: {x: 180.65, y: 62.06}
+  m_AnchoredPosition: {x: -292.42, y: 36.33}
+  m_SizeDelta: {x: 144.14, y: 110.47}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1595611480
 MonoBehaviour:
@@ -1214,8 +1214,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 3b21d43ebb5542547a756d918ab5e021, type: 3}
-  m_Type: 0
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4

@@ -379,7 +379,7 @@ MonoBehaviour:
   DialogueStrings:
   - "I believe you Spud. King@Bukac doesn\u2019t like@visitors from other@planets.
     He thinks@everyone is out for his@job."
-  - "I\u2019ll help you escape, but@you have to promise not@to tell anyone!"
+  - I will help you escape,@but you have to promise@not to tell anyone!
   - To get started, look for@glowing objects. There is@a puzzle in this room@you need
     to solve. Keep@an eye out for any clues@and good luck!
   SecondsBetweenCharacters: 0.01
@@ -651,7 +651,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1428843973}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -798,8 +798,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: b0baa8afada19c644a03c6afdee5ae28, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
