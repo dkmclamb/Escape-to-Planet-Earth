@@ -385,8 +385,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 146, y: -54}
-  m_SizeDelta: {x: 746.3, y: 403.2}
+  m_AnchoredPosition: {x: 143.5, y: -54}
+  m_SizeDelta: {x: 695.3, y: 403.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1238138929
 MonoBehaviour:
@@ -401,8 +401,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DialogueStrings:
-  - You did it Spud. You found @the ship!
-  - Oh no...King Bukac is onto @me! His army is coming, @you must go now!
+  - You did it Spud. You@found the ship!
+  - Oh no...King Bukac is@onto me! His army is@coming, you must go@now!
   SecondsBetweenCharacters: 0.01
   CharacterRateMultiplier: 0.25
   DialogueInput: 13
@@ -485,7 +485,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 537.38, y: -243.59998}
+  m_AnchoredPosition: {x: 344, y: -243.59998}
   m_SizeDelta: {x: -1119.9, y: -532.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1238562988
@@ -561,7 +561,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -474.4, y: -253.6}
+  m_AnchoredPosition: {x: -415, y: -253.6}
   m_SizeDelta: {x: 165.41, y: 51.65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1372191219
@@ -688,7 +688,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 537.36, y: -243.59998}
+  m_AnchoredPosition: {x: 342, y: -243.59998}
   m_SizeDelta: {x: -1119.9, y: -532.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1724638330

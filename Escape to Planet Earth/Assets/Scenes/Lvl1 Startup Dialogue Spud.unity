@@ -147,8 +147,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 126.6, y: -56}
-  m_SizeDelta: {x: 837.4, y: 413.2}
+  m_AnchoredPosition: {x: 116.7, y: -56}
+  m_SizeDelta: {x: 746.4, y: 413.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &296755306
 MonoBehaviour:
@@ -163,10 +163,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DialogueStrings:
-  - Hi, my name is Spud. I am an@alien imprisoned here on@Astro Starbin where I@accidentally
-    crash landed@here on a discovery mission@to a planet called Earth.
-  - 'King Bukac, ruler of Astro@Starbin, is accusing me of@attempting to take over
-    his@position as King. I promise@you I am innocent. Can you@help me escape? '
+  - Hi, my name is Spud. I am@an alien imprisoned here@on Astro Starbin where I@accidentally
+    crash@landed here on a@discovery mission to a@planet called Earth.
+  - 'King Bukac, ruler of Astro@Starbin, is accusing me of@attempting to take over@his
+    position as King. I@promise you I am@innocent. Can you help@me escape? '
   SecondsBetweenCharacters: 0.0075
   CharacterRateMultiplier: 0.25
   DialogueInput: 13
@@ -317,7 +317,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -465.05, y: -248.24}
+  m_AnchoredPosition: {x: -429, y: -248.24}
   m_SizeDelta: {x: 171.9, y: 57.51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &670621558
@@ -444,7 +444,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 520.6, y: -250.40002}
+  m_AnchoredPosition: {x: 386, y: -250.40002}
   m_SizeDelta: {x: -1098, y: -522.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &801568160
@@ -697,7 +697,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 520.57, y: -250.40002}
+  m_AnchoredPosition: {x: 386, y: -250.40002}
   m_SizeDelta: {x: -1098.1, y: -522.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1598614686

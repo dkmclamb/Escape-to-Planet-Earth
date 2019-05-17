@@ -242,8 +242,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 126.6, y: -86}
-  m_SizeDelta: {x: 837.4, y: 413.2}
+  m_AnchoredPosition: {x: 112.3, y: -69.2}
+  m_SizeDelta: {x: 754, y: 379.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &279475517
 MonoBehaviour:
@@ -258,7 +258,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DialogueStrings:
-  - Nevermind that! Prisoner @CA-29 has escaped. Find him @and bring him to me NOW!
+  - Nevermind that! Prisoner@CA-29 has escaped. Find@him and bring him to me@NOW!
   SecondsBetweenCharacters: 0.0075
   CharacterRateMultiplier: 0.25
   DialogueInput: 13
@@ -341,7 +341,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 520.6, y: -250.40002}
+  m_AnchoredPosition: {x: 372, y: -250.40002}
   m_SizeDelta: {x: -1098, y: -522.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &312230092
@@ -494,7 +494,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -465.05, y: -248.24}
+  m_AnchoredPosition: {x: -429, y: -248.24}
   m_SizeDelta: {x: 171.9, y: 57.51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &633557952
@@ -687,7 +687,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 520.57, y: -250.40002}
+  m_AnchoredPosition: {x: 371, y: -250.40002}
   m_SizeDelta: {x: -1098.1, y: -522.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &969472927

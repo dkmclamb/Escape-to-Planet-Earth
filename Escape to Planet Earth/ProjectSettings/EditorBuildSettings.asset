@@ -59,7 +59,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lvl2 Startup Dialogue Guard.unity
     guid: e604dc8f69f82ac428f9cf145c2bfc6c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Lvl2 Startup Dialogue Spud.unity
     guid: e1bc51271fa002545a52c3dad54fad8d
   - enabled: 1
@@ -77,7 +77,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lvl2 Win Dialogue King Bukac 2.unity
     guid: 094e375e71fa7b045ab76768326e7754
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Lvl2 Win Dialogue Spud.unity
     guid: 5d1ba3547cdae5f499ade7c2a0443502
   - enabled: 1

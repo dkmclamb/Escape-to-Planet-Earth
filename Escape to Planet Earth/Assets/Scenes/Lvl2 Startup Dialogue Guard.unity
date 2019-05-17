@@ -291,7 +291,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 540.2, y: -246.90002}
+  m_AnchoredPosition: {x: 358, y: -246.90002}
   m_SizeDelta: {x: -1117.7, y: -528.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &640035873
@@ -465,7 +465,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 540.2499, y: -246.90002}
+  m_AnchoredPosition: {x: 358, y: -246.90002}
   m_SizeDelta: {x: -1117.6, y: -528.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &982080921
@@ -541,7 +541,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -467.12, y: -246.09}
+  m_AnchoredPosition: {x: -427, y: -246.09}
   m_SizeDelta: {x: 157.76, y: 59.81}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1226357857
@@ -669,7 +669,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 106.7, y: -49.4}
+  m_AnchoredPosition: {x: 138, y: -49.4}
   m_SizeDelta: {x: 689.4, y: 439.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1341334911
@@ -692,7 +692,7 @@ MonoBehaviour:
   SecondsBetweenCharacters: 0.01
   CharacterRateMultiplier: 0.25
   DialogueInput: 13
-  sceneName: Lvl2 Startup Dialogue Spud
+  sceneName: Guard Station
   ContinueIcon: {fileID: 640035871}
   StopIcon: {fileID: 982080919}
 --- !u!114 &1341334912

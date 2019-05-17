@@ -146,7 +146,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 523.8, y: -240.21997}
+  m_AnchoredPosition: {x: 381.6, y: -240.21997}
   m_SizeDelta: {x: -1097.8, y: -524.26}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &366784274
@@ -220,7 +220,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 519.4, y: -240.20001}
+  m_AnchoredPosition: {x: 381.7, y: -240.20001}
   m_SizeDelta: {x: -1089.2, y: -524.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &462810320
@@ -361,8 +361,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 118.7, y: -51.7}
-  m_SizeDelta: {x: 722, y: 425.8}
+  m_AnchoredPosition: {x: 142, y: -51.7}
+  m_SizeDelta: {x: 684.5, y: 425.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1102854875
 MonoBehaviour:
@@ -377,11 +377,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DialogueStrings:
-  - "I believe you Spud. King@Bukac doesn\u2019t like@visitors from other@planets.
-    He thinks@everyone is out for his@job."
-  - I will help you escape,@but you have to promise@not to tell anyone!
-  - To get started, look for@glowing objects. There is@a puzzle in this room@you need
-    to solve. Keep@an eye out for any clues@and good luck!
+  - I believe you Spud. King@Bukac does not like@visitors from other@planets. He thinks@everyone
+    is out for his@job.
+  - I will help you escape,@but you have to@promise not to tell@anyone!
+  - To get started, look for@glowing objects. There@is a puzzle in this room@you need
+    to solve. Keep@an eye out for any@clues and good luck!
   SecondsBetweenCharacters: 0.01
   CharacterRateMultiplier: 0.25
   DialogueInput: 13
@@ -722,7 +722,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -476.6, y: -246.74}
+  m_AnchoredPosition: {x: -409, y: -246.74}
   m_SizeDelta: {x: 162.57, y: 56.52}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1739436019

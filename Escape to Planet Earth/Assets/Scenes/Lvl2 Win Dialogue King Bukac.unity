@@ -146,7 +146,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 520.6, y: -250.40002}
+  m_AnchoredPosition: {x: 390, y: -250.40002}
   m_SizeDelta: {x: -1098, y: -522.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &172652549
@@ -399,7 +399,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -465.05, y: -248.24}
+  m_AnchoredPosition: {x: -420, y: -248.24}
   m_SizeDelta: {x: 171.9, y: 57.51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1141616938
@@ -526,7 +526,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 520.57, y: -250.40002}
+  m_AnchoredPosition: {x: 389, y: -250.40002}
   m_SizeDelta: {x: -1098.1, y: -522.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1323058013
@@ -601,8 +601,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 126.6, y: -80}
-  m_SizeDelta: {x: 837.4, y: 413.2}
+  m_AnchoredPosition: {x: 99.2, y: -71.3}
+  m_SizeDelta: {x: 737.8, y: 395.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1342108776
 MonoBehaviour:
@@ -617,7 +617,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DialogueStrings:
-  - Guard! Where have you been?
+  - Guard! Where have you@been?
   SecondsBetweenCharacters: 0.0075
   CharacterRateMultiplier: 0.25
   DialogueInput: 13
